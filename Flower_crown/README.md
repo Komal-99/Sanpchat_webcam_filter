@@ -1,4 +1,4 @@
-![pic1](C:\Users\Sandeep\OneDrive\Desktop\komal\venv\Face-X\Snapchat_Filters\flower_filter\pic1.jpg)
+![pic1](pic1.jpg)
 <h1>Apply Snapchat Flower crown to your face stream</h1>
 
 <h3>Requirements</h3>
